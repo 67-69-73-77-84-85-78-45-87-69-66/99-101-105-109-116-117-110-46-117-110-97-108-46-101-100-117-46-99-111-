@@ -124,7 +124,7 @@ ol{
 }
 
 #services.active{
-  right:0;
+  right:30%;
 }
 
 #services .navbar-default .navbar-nav > li > a:hover,
@@ -193,18 +193,18 @@ ol{
 }
 
 
-ul.dropdown-menu {
+ul.dropdown-menu{
   min-width:54px;
   background:#333333;
   border-color:#222222;
   padding:0;
 }
 
-ul.dropdown-menu a {
+ul.dropdown-menu a{
   color:white;
   padding:3px 10px;
 }
-ul.dropdown-menu a:hover, ul.dropdown-menu a:active, ul.dropdown-menu a:focus {
+ul.dropdown-menu a:hover,ul.dropdown-menu a:active,ul.dropdown-menu a:focus{
   background:#4b4b4b;
   color:white;
 }
